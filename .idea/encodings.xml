@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/helloauth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hellobean" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hellobiz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hellosearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hellotrade" charset="UTF-8" />
+  </component>
+</project>
